@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "求和", "求和\求和.vcxproj", "{18461441-2577-44A2-B7F3-DD5C7DFD4E31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Debug|x64.ActiveCfg = Debug|x64
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Debug|x64.Build.0 = Debug|x64
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Debug|x86.ActiveCfg = Debug|Win32
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Debug|x86.Build.0 = Debug|Win32
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Release|x64.ActiveCfg = Release|x64
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Release|x64.Build.0 = Release|x64
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Release|x86.ActiveCfg = Release|Win32
+		{18461441-2577-44A2-B7F3-DD5C7DFD4E31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E89545CC-A6F4-40DF-BA66-F22A1937EC6F}
+	EndGlobalSection
+EndGlobal
